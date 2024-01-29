@@ -1,1 +1,1 @@
-print("este es el nuevo para git∫")
+print("este es el nuevo para git version 2")
